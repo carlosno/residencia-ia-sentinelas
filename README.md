@@ -1,3 +1,4 @@
+
 # Residência em IA — Grupo Sentinelas
 Parceria **Instituto Eldorado** & **PUC-Campinas**
 
