@@ -1,4 +1,4 @@
-# 🤖 Residência em Inteligência Artificial — Grupo Sentinel
+# 🤖 Residência em Inteligência Artificial — Grupo Sentinelas
 
 <p align="center">
   <strong>Residência Tecnológica em Inteligência Artificial</strong><br>
@@ -16,7 +16,7 @@
 ## 📌 Sobre o projeto
 
 Este repositório reúne os materiais, experimentos, notebooks, documentações e
-entregas desenvolvidos pelo **Grupo Sentinel** durante a
+entregas desenvolvidos pelo **Grupo Sentinelas** durante a
 **Residência Tecnológica em Inteligência Artificial**, realizada em parceria
 entre o **Instituto ELDORADO** e a **PUC-Campinas**.
 
