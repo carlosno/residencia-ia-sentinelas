@@ -1,29 +1,70 @@
+# 🤖 Residência em Inteligência Artificial — Grupo Sentinel
 
-# Residência em IA — Grupo Sentinelas
-Parceria **Instituto Eldorado** & **PUC-Campinas**
+<p align="center">
+  <strong>Residência Tecnológica em Inteligência Artificial</strong><br>
+  Instituto ELDORADO + PUC-Campinas
+</p>
 
-Repositório destinado ao desenvolvimento e entrega dos desafios práticos do programa.
+<p align="center">
+  <a href="https://formacao.eldorado.org.br/residencia-ia-pucc">
+    Página oficial da Residência em IA
+  </a>
+</p>
 
 ---
 
-### Integrantes
-* Nome 1 - [@github](https://github.com/)
-* Nome 2 - [@github](https://github.com/)
-* Nome 3 - [@github](https://github.com/)
-* Nome 4 - [@github](https://github.com/)
+## 📌 Sobre o projeto
+
+Este repositório reúne os materiais, experimentos, notebooks, documentações e
+entregas desenvolvidos pelo **Grupo Sentinel** durante a
+**Residência Tecnológica em Inteligência Artificial**, realizada em parceria
+entre o **Instituto ELDORADO** e a **PUC-Campinas**.
+
+O objetivo do repositório é centralizar o desenvolvimento dos desafios
+práticos e registrar a evolução técnica do grupo ao longo do programa.
 
 ---
 
-### Como Executar
+## 🧠 Residência em IA
 
-```bash
-# 1. Clonar o projeto
-git clone [https://github.com/SEU-USUARIO/residencia-ia-sentinelas.git](https://github.com/SEU-USUARIO/residencia-ia-sentinelas.git)
-cd residencia-ia-sentinelas
+A formação aborda conceitos e aplicações relacionados a:
 
-# 2. Criar e ativar ambiente virtual
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+- Inteligência Artificial;
+- Machine Learning;
+- Inteligência Artificial Generativa;
+- Análise e processamento de dados;
+- Desenvolvimento de soluções baseadas em IA;
+- Experimentação e avaliação de modelos;
+- Desenvolvimento de projetos práticos.
 
-# 3. Instalar dependências
-pip install -r requirements.txt
+🔗 **[Página oficial do programa](https://formacao.eldorado.org.br/residencia-ia-pucc)**
+
+---
+
+## 👥 Grupo Sentinel
+
+| Integrante | GitHub |
+|---|---|
+| M. Florian Themer | [@mfloriamthemer-code](https://github.com/mfloriamthemer-code) |
+| Luvicaria | [@Luvicaria](https://github.com/Luvicaria) |
+| Carlos Oliveira | [@carlosno](https://github.com/carlosno) |
+
+---
+
+## 📂 Estrutura do repositório
+
+```text
+residencia-ia-sentinelas/
+│
+├── docs/
+│   ├── reference/
+│   ├── sprints/
+│   ├── architecture.md
+│   ├── final_report.md
+│   └── index.md
+│
+├── notebooks/
+│   ├── README.md
+│   └── ScamBench_Colab_Residencia...
+│
+└── README.md
